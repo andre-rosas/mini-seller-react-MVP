@@ -29,6 +29,9 @@ bower_components
 # node_modules directory
 node_modules
 
+# lighthouse JSON
+lighthouse-a11y.json
+
 # Optional npm cache directory
 .npm
 
