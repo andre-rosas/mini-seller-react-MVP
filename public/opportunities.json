@@ -1,0 +1,202 @@
+﻿[
+  {
+    "id": "opp-1",
+    "name": "Pride and Prejudice Digital Transformation",
+    "stage": "proposal",
+    "amount": 45000,
+    "accountName": "Pride and Prejudice Ltd",
+    "leadId": "1",
+    "probability": 75,
+    "expectedCloseDate": "2025-10-15"
+  },
+  {
+    "id": "opp-2",
+    "name": "Jane Eyre Publishing Platform",
+    "stage": "negotiation",
+    "amount": 38000,
+    "accountName": "Jane Eyre Publishing",
+    "leadId": "3",
+    "probability": 85,
+    "expectedCloseDate": "2025-09-30"
+  },
+  {
+    "id": "opp-3",
+    "name": "Emma Enterprises CRM Implementation",
+    "stage": "closed-won",
+    "amount": 52000,
+    "accountName": "Emma Enterprises",
+    "leadId": "6",
+    "probability": 100,
+    "expectedCloseDate": "2025-08-20"
+  },
+  {
+    "id": "opp-4",
+    "name": "Gone with the Wind Analytics Suite",
+    "stage": "qualification",
+    "amount": 65000,
+    "accountName": "Gone with the Wind Inc",
+    "leadId": "9",
+    "probability": 60,
+    "expectedCloseDate": "2025-11-10"
+  },
+  {
+    "id": "opp-5",
+    "name": "Harry Potter Wizarding Tech Stack",
+    "stage": "closed-won",
+    "amount": 78000,
+    "accountName": "Harry Potter Wizarding Co",
+    "leadId": "13",
+    "probability": 100,
+    "expectedCloseDate": "2025-07-15"
+  },
+  {
+    "id": "opp-6",
+    "name": "Hunger Games Security Platform",
+    "stage": "proposal",
+    "amount": 43000,
+    "accountName": "The Hunger Games Ltd",
+    "leadId": "15",
+    "probability": 80,
+    "expectedCloseDate": "2025-10-05"
+  },
+  {
+    "id": "opp-7",
+    "name": "Great Gatsby Marketing Automation",
+    "stage": "negotiation",
+    "amount": 35000,
+    "accountName": "The Great Gatsby Corp",
+    "leadId": "18",
+    "probability": 70,
+    "expectedCloseDate": "2025-09-25"
+  },
+  {
+    "id": "opp-8",
+    "name": "Hamlet Productions Content Management",
+    "stage": "qualification",
+    "amount": 29000,
+    "accountName": "Hamlet Productions",
+    "leadId": "20",
+    "probability": 55,
+    "expectedCloseDate": "2025-11-20"
+  },
+  {
+    "id": "opp-9",
+    "name": "Romeo and Juliet Event Platform",
+    "stage": "closed-won",
+    "amount": 41000,
+    "accountName": "Romeo and Juliet Enterprises",
+    "leadId": "21",
+    "probability": 100,
+    "expectedCloseDate": "2025-08-10"
+  },
+  {
+    "id": "opp-10",
+    "name": "Macbeth Industries ERP System",
+    "stage": "proposal",
+    "amount": 67000,
+    "accountName": "Macbeth Industries",
+    "leadId": "24",
+    "probability": 65,
+    "expectedCloseDate": "2025-10-30"
+  },
+  {
+    "id": "opp-11",
+    "name": "Merchant of Venice Financial Suite",
+    "stage": "negotiation",
+    "amount": 55000,
+    "accountName": "The Merchant of Venice Co",
+    "leadId": "25",
+    "probability": 90,
+    "expectedCloseDate": "2025-09-15"
+  },
+  {
+    "id": "opp-12",
+    "name": "King Lear Holdings Dashboard",
+    "stage": "closed-lost",
+    "amount": 32000,
+    "accountName": "King Lear Holdings",
+    "leadId": "27",
+    "probability": 0,
+    "expectedCloseDate": "2025-08-05"
+  },
+  {
+    "id": "opp-13",
+    "name": "Othello Corp Communication Platform",
+    "stage": "qualification",
+    "amount": 38000,
+    "accountName": "Othello Corp",
+    "leadId": "30",
+    "probability": 50,
+    "expectedCloseDate": "2025-11-15"
+  },
+  {
+    "id": "opp-14",
+    "name": "Much Ado Social Media Suite",
+    "stage": "proposal",
+    "amount": 33000,
+    "accountName": "Much Ado About Nothing Ltd",
+    "leadId": "31",
+    "probability": 75,
+    "expectedCloseDate": "2025-10-20"
+  },
+  {
+    "id": "opp-15",
+    "name": "Tempest Inc Weather Analytics",
+    "stage": "closed-won",
+    "amount": 48000,
+    "accountName": "The Tempest Inc",
+    "leadId": "34",
+    "probability": 100,
+    "expectedCloseDate": "2025-07-30"
+  },
+  {
+    "id": "opp-16",
+    "name": "Scarlet Letter Compliance Platform",
+    "stage": "negotiation",
+    "amount": 44000,
+    "accountName": "The Scarlet Letter Co",
+    "leadId": "35",
+    "probability": 80,
+    "expectedCloseDate": "2025-09-20"
+  },
+  {
+    "id": "opp-17",
+    "name": "Little Women Publishing Workflow",
+    "stage": "proposal",
+    "amount": 39000,
+    "accountName": "Little Women Publishing",
+    "leadId": "37",
+    "probability": 85,
+    "expectedCloseDate": "2025-10-10"
+  },
+  {
+    "id": "opp-18",
+    "name": "Tess d'Urbervilles Data Migration",
+    "stage": "qualification",
+    "amount": 26000,
+    "accountName": "Tess of the d'Urbervilles Ltd",
+    "leadId": "39",
+    "probability": 45,
+    "expectedCloseDate": "2025-12-01"
+  },
+  {
+    "id": "opp-19",
+    "name": "Mrs. Dalloway Enterprise Suite",
+    "stage": "closed-won",
+    "amount": 51000,
+    "accountName": "Mrs. Dalloway Enterprises",
+    "leadId": "41",
+    "probability": 100,
+    "expectedCloseDate": "2025-08-15"
+  },
+  {
+    "id": "opp-20",
+    "name": "To the Lighthouse Navigation System",
+    "stage": "proposal",
+    "amount": 47000,
+    "accountName": "To the Lighthouse Co",
+    "leadId": "43",
+    "probability": 90,
+    "expectedCloseDate": "2025-09-10"
+  }
+]

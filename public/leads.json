@@ -1,0 +1,902 @@
+﻿[
+  {
+    "id": "1",
+    "name": "Elizabeth Bennet",
+    "company": "Pride and Prejudice Ltd",
+    "email": "elizabeth@prideandprejudice.com",
+    "source": "Website",
+    "score": 95,
+    "status": "new"
+  },
+  {
+    "id": "2",
+    "name": "Fitzwilliam Darcy",
+    "company": "Pride and Prejudice Ltd",
+    "email": "darcy@prideandprejudice.com",
+    "source": "Referral",
+    "score": 92,
+    "status": "contacted"
+  },
+  {
+    "id": "3",
+    "name": "Jane Eyre",
+    "company": "Jane Eyre Publishing",
+    "email": "jane@janeeyre.com",
+    "source": "LinkedIn",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "4",
+    "name": "Edward Rochester",
+    "company": "Jane Eyre Publishing",
+    "email": "rochester@janeeyre.com",
+    "source": "Cold Call",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "5",
+    "name": "Emma Woodhouse",
+    "company": "Emma Enterprises",
+    "email": "emma@emmaenterprises.com",
+    "source": "Website",
+    "score": 87,
+    "status": "contacted"
+  },
+  {
+    "id": "6",
+    "name": "George Knightley",
+    "company": "Emma Enterprises",
+    "email": "knightley@emmaenterprises.com",
+    "source": "Referral",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "7",
+    "name": "Catherine Earnshaw",
+    "company": "Wuthering Heights Corp",
+    "email": "catherine@wutheringheights.com",
+    "source": "LinkedIn",
+    "score": 83,
+    "status": "new"
+  },
+  {
+    "id": "8",
+    "name": "Heathcliff",
+    "company": "Wuthering Heights Corp",
+    "email": "heathcliff@wutheringheights.com",
+    "source": "Cold Call",
+    "score": 89,
+    "status": "contacted"
+  },
+  {
+    "id": "9",
+    "name": "Scarlett O'Hara",
+    "company": "Gone with the Wind Inc",
+    "email": "scarlett@gonewiththewind.com",
+    "source": "Website",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "10",
+    "name": "Rhett Butler",
+    "company": "Gone with the Wind Inc",
+    "email": "rhett@gonewiththewind.com",
+    "source": "Referral",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "11",
+    "name": "Anna Karenina",
+    "company": "Anna Karenina Holdings",
+    "email": "anna@annakarenina.com",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "contacted"
+  },
+  {
+    "id": "12",
+    "name": "Count Vronsky",
+    "company": "Anna Karenina Holdings",
+    "email": "vronsky@annakarenina.com",
+    "source": "Cold Call",
+    "score": 82,
+    "status": "qualified"
+  },
+  {
+    "id": "13",
+    "name": "Hermione Granger",
+    "company": "Harry Potter Wizarding Co",
+    "email": "hermione@harrypotter.com",
+    "source": "Website",
+    "score": 98,
+    "status": "new"
+  },
+  {
+    "id": "14",
+    "name": "Harry Potter",
+    "company": "Harry Potter Wizarding Co",
+    "email": "harry@harrypotter.com",
+    "source": "Referral",
+    "score": 94,
+    "status": "contacted"
+  },
+  {
+    "id": "15",
+    "name": "Katniss Everdeen",
+    "company": "The Hunger Games Ltd",
+    "email": "katniss@hungergames.com",
+    "source": "LinkedIn",
+    "score": 93,
+    "status": "qualified"
+  },
+  {
+    "id": "16",
+    "name": "Peeta Mellark",
+    "company": "The Hunger Games Ltd",
+    "email": "peeta@hungergames.com",
+    "source": "Cold Call",
+    "score": 80,
+    "status": "new"
+  },
+  {
+    "id": "17",
+    "name": "Daisy Buchanan",
+    "company": "The Great Gatsby Corp",
+    "email": "daisy@greatgatsby.com",
+    "source": "Website",
+    "score": 75,
+    "status": "contacted"
+  },
+  {
+    "id": "18",
+    "name": "Jay Gatsby",
+    "company": "The Great Gatsby Corp",
+    "email": "jay@greatgatsby.com",
+    "source": "Referral",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "19",
+    "name": "Ophelia",
+    "company": "Hamlet Productions",
+    "email": "ophelia@hamlet.com",
+    "source": "LinkedIn",
+    "score": 77,
+    "status": "new"
+  },
+  {
+    "id": "20",
+    "name": "Hamlet",
+    "company": "Hamlet Productions",
+    "email": "hamlet@hamlet.com",
+    "source": "Cold Call",
+    "score": 91,
+    "status": "contacted"
+  },
+  {
+    "id": "21",
+    "name": "Juliet Capulet",
+    "company": "Romeo and Juliet Enterprises",
+    "email": "juliet@romeojuliet.com",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "22",
+    "name": "Romeo Montague",
+    "company": "Romeo and Juliet Enterprises",
+    "email": "romeo@romeojuliet.com",
+    "source": "Referral",
+    "score": 87,
+    "status": "new"
+  },
+  {
+    "id": "23",
+    "name": "Lady Macbeth",
+    "company": "Macbeth Industries",
+    "email": "ladymacbeth@macbeth.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "contacted"
+  },
+  {
+    "id": "24",
+    "name": "Macbeth",
+    "company": "Macbeth Industries",
+    "email": "macbeth@macbeth.com",
+    "source": "Cold Call",
+    "score": 83,
+    "status": "qualified"
+  },
+  {
+    "id": "25",
+    "name": "Portia",
+    "company": "The Merchant of Venice Co",
+    "email": "portia@merchantvenice.com",
+    "source": "Website",
+    "score": 92,
+    "status": "new"
+  },
+  {
+    "id": "26",
+    "name": "Shylock",
+    "company": "The Merchant of Venice Co",
+    "email": "shylock@merchantvenice.com",
+    "source": "Referral",
+    "score": 78,
+    "status": "contacted"
+  },
+  {
+    "id": "27",
+    "name": "Cordelia",
+    "company": "King Lear Holdings",
+    "email": "cordelia@kinglear.com",
+    "source": "LinkedIn",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "28",
+    "name": "King Lear",
+    "company": "King Lear Holdings",
+    "email": "lear@kinglear.com",
+    "source": "Cold Call",
+    "score": 72,
+    "status": "new"
+  },
+  {
+    "id": "29",
+    "name": "Desdemona",
+    "company": "Othello Corp",
+    "email": "desdemona@othello.com",
+    "source": "Website",
+    "score": 86,
+    "status": "contacted"
+  },
+  {
+    "id": "30",
+    "name": "Othello",
+    "company": "Othello Corp",
+    "email": "othello@othello.com",
+    "source": "Referral",
+    "score": 81,
+    "status": "qualified"
+  },
+  {
+    "id": "31",
+    "name": "Beatrice",
+    "company": "Much Ado About Nothing Ltd",
+    "email": "beatrice@muchadoaboutnothing.com",
+    "source": "LinkedIn",
+    "score": 88,
+    "status": "new"
+  },
+  {
+    "id": "32",
+    "name": "Benedick",
+    "company": "Much Ado About Nothing Ltd",
+    "email": "benedick@muchadoaboutnothing.com",
+    "source": "Cold Call",
+    "score": 84,
+    "status": "contacted"
+  },
+  {
+    "id": "33",
+    "name": "Miranda",
+    "company": "The Tempest Inc",
+    "email": "miranda@tempest.com",
+    "source": "Website",
+    "score": 79,
+    "status": "qualified"
+  },
+  {
+    "id": "34",
+    "name": "Prospero",
+    "company": "The Tempest Inc",
+    "email": "prospero@tempest.com",
+    "source": "Referral",
+    "score": 87,
+    "status": "new"
+  },
+  {
+    "id": "35",
+    "name": "Hester Prynne",
+    "company": "The Scarlet Letter Co",
+    "email": "hester@scarletletter.com",
+    "source": "LinkedIn",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "36",
+    "name": "Arthur Dimmesdale",
+    "company": "The Scarlet Letter Co",
+    "email": "arthur@scarletletter.com",
+    "source": "Cold Call",
+    "score": 76,
+    "status": "qualified"
+  },
+  {
+    "id": "37",
+    "name": "Jo March",
+    "company": "Little Women Publishing",
+    "email": "jo@littlewomen.com",
+    "source": "Website",
+    "score": 91,
+    "status": "new"
+  },
+  {
+    "id": "38",
+    "name": "Theodore Laurence",
+    "company": "Little Women Publishing",
+    "email": "laurie@littlewomen.com",
+    "source": "Referral",
+    "score": 85,
+    "status": "contacted"
+  },
+  {
+    "id": "39",
+    "name": "Tess Durbeyfield",
+    "company": "Tess of the d'Urbervilles Ltd",
+    "email": "tess@tessdurbervilles.com",
+    "source": "LinkedIn",
+    "score": 78,
+    "status": "qualified"
+  },
+  {
+    "id": "40",
+    "name": "Angel Clare",
+    "company": "Tess of the d'Urbervilles Ltd",
+    "email": "angel@tessdurbervilles.com",
+    "source": "Cold Call",
+    "score": 80,
+    "status": "new"
+  },
+  {
+    "id": "41",
+    "name": "Clarissa Dalloway",
+    "company": "Mrs. Dalloway Enterprises",
+    "email": "clarissa@mrsdalloway.com",
+    "source": "Website",
+    "score": 84,
+    "status": "contacted"
+  },
+  {
+    "id": "42",
+    "name": "Septimus Smith",
+    "company": "Mrs. Dalloway Enterprises",
+    "email": "septimus@mrsdalloway.com",
+    "source": "Referral",
+    "score": 73,
+    "status": "qualified"
+  },
+  {
+    "id": "43",
+    "name": "Virginia Woolf",
+    "company": "To the Lighthouse Co",
+    "email": "virginia@tothelighthouse.com",
+    "source": "LinkedIn",
+    "score": 93,
+    "status": "new"
+  },
+  {
+    "id": "44",
+    "name": "Mr. Ramsay",
+    "company": "To the Lighthouse Co",
+    "email": "ramsay@tothelighthouse.com",
+    "source": "Cold Call",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "45",
+    "name": "Offred",
+    "company": "The Handmaid's Tale Corp",
+    "email": "offred@handmaidstale.com",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "46",
+    "name": "Nick Blaine",
+    "company": "The Handmaid's Tale Corp",
+    "email": "nick@handmaidstale.com",
+    "source": "Referral",
+    "score": 77,
+    "status": "new"
+  },
+  {
+    "id": "47",
+    "name": "Lily Bart",
+    "company": "The House of Mirth Ltd",
+    "email": "lily@houseofmirth.com",
+    "source": "LinkedIn",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "48",
+    "name": "Lawrence Selden",
+    "company": "The House of Mirth Ltd",
+    "email": "lawrence@houseofmirth.com",
+    "source": "Cold Call",
+    "score": 79,
+    "status": "qualified"
+  },
+  {
+    "id": "49",
+    "name": "Edith Wharton",
+    "company": "The Age of Innocence Inc",
+    "email": "edith@ageofinnocence.com",
+    "source": "Website",
+    "score": 90,
+    "status": "new"
+  },
+  {
+    "id": "50",
+    "name": "Newland Archer",
+    "company": "The Age of Innocence Inc",
+    "email": "newland@ageofinnocence.com",
+    "source": "Referral",
+    "score": 83,
+    "status": "contacted"
+  },
+  {
+    "id": "51",
+    "name": "Isabel Archer",
+    "company": "The Portrait of a Lady Co",
+    "email": "isabel@portraitlady.com",
+    "source": "LinkedIn",
+    "score": 87,
+    "status": "qualified"
+  },
+  {
+    "id": "52",
+    "name": "Gilbert Osmond",
+    "company": "The Portrait of a Lady Co",
+    "email": "gilbert@portraitlady.com",
+    "source": "Cold Call",
+    "score": 74,
+    "status": "new"
+  },
+  {
+    "id": "53",
+    "name": "Dorothea Brooke",
+    "company": "Middlemarch Holdings",
+    "email": "dorothea@middlemarch.com",
+    "source": "Website",
+    "score": 92,
+    "status": "contacted"
+  },
+  {
+    "id": "54",
+    "name": "Will Ladislaw",
+    "company": "Middlemarch Holdings",
+    "email": "will@middlemarch.com",
+    "source": "Referral",
+    "score": 85,
+    "status": "qualified"
+  },
+  {
+    "id": "55",
+    "name": "Maggie Tulliver",
+    "company": "The Mill on the Floss Ltd",
+    "email": "maggie@millonthefloss.com",
+    "source": "LinkedIn",
+    "score": 80,
+    "status": "new"
+  },
+  {
+    "id": "56",
+    "name": "Tom Tulliver",
+    "company": "The Mill on the Floss Ltd",
+    "email": "tom@millonthefloss.com",
+    "source": "Cold Call",
+    "score": 76,
+    "status": "contacted"
+  },
+  {
+    "id": "57",
+    "name": "Becky Sharp",
+    "company": "Vanity Fair Corp",
+    "email": "becky@vanityfair.com",
+    "source": "Website",
+    "score": 86,
+    "status": "qualified"
+  },
+  {
+    "id": "58",
+    "name": "Rawdon Crawley",
+    "company": "Vanity Fair Corp",
+    "email": "rawdon@vanityfair.com",
+    "source": "Referral",
+    "score": 78,
+    "status": "new"
+  },
+  {
+    "id": "59",
+    "name": "Moll Flanders",
+    "company": "Moll Flanders Enterprises",
+    "email": "moll@mollflanders.com",
+    "source": "LinkedIn",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "60",
+    "name": "Robinson Crusoe",
+    "company": "Robinson Crusoe Adventures",
+    "email": "robinson@robinsoncrusoe.com",
+    "source": "Cold Call",
+    "score": 84,
+    "status": "qualified"
+  },
+  {
+    "id": "61",
+    "name": "Pamela Andrews",
+    "company": "Pamela Publishing",
+    "email": "pamela@pamela.com",
+    "source": "Website",
+    "score": 77,
+    "status": "new"
+  },
+  {
+    "id": "62",
+    "name": "Tom Jones",
+    "company": "Tom Jones Co",
+    "email": "tom@tomjones.com",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "63",
+    "name": "Fanny Hill",
+    "company": "Memoirs of a Woman Corp",
+    "email": "fanny@fannyhill.com",
+    "source": "LinkedIn",
+    "score": 75,
+    "status": "qualified"
+  },
+  {
+    "id": "64",
+    "name": "Tristram Shandy",
+    "company": "Tristram Shandy Ltd",
+    "email": "tristram@tristramshandy.com",
+    "source": "Cold Call",
+    "score": 79,
+    "status": "new"
+  },
+  {
+    "id": "65",
+    "name": "Evelina Anville",
+    "company": "Evelina Enterprises",
+    "email": "evelina@evelina.com",
+    "source": "Website",
+    "score": 83,
+    "status": "contacted"
+  },
+  {
+    "id": "66",
+    "name": "Caleb Williams",
+    "company": "Caleb Williams Holdings",
+    "email": "caleb@calebwilliams.com",
+    "source": "Referral",
+    "score": 80,
+    "status": "qualified"
+  },
+  {
+    "id": "67",
+    "name": "Justine",
+    "company": "Frankenstein Industries",
+    "email": "justine@frankenstein.com",
+    "source": "LinkedIn",
+    "score": 78,
+    "status": "new"
+  },
+  {
+    "id": "68",
+    "name": "Victor Frankenstein",
+    "company": "Frankenstein Industries",
+    "email": "victor@frankenstein.com",
+    "source": "Cold Call",
+    "score": 85,
+    "status": "contacted"
+  },
+  {
+    "id": "69",
+    "name": "Mina Harker",
+    "company": "Dracula Corp",
+    "email": "mina@dracula.com",
+    "source": "Website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "70",
+    "name": "Count Dracula",
+    "company": "Dracula Corp",
+    "email": "dracula@dracula.com",
+    "source": "Referral",
+    "score": 91,
+    "status": "new"
+  },
+  {
+    "id": "71",
+    "name": "Lucy Westenra",
+    "company": "Dracula Corp",
+    "email": "lucy@dracula.com",
+    "source": "LinkedIn",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "72",
+    "name": "Dr. Jekyll",
+    "company": "Jekyll and Hyde Ltd",
+    "email": "jekyll@jekyllhyde.com",
+    "source": "Cold Call",
+    "score": 79,
+    "status": "qualified"
+  },
+  {
+    "id": "73",
+    "name": "Irene Adler",
+    "company": "Sherlock Holmes Investigations",
+    "email": "irene@sherlockholmes.com",
+    "source": "Website",
+    "score": 94,
+    "status": "new"
+  },
+  {
+    "id": "74",
+    "name": "Sherlock Holmes",
+    "company": "Sherlock Holmes Investigations",
+    "email": "sherlock@sherlockholmes.com",
+    "source": "Referral",
+    "score": 96,
+    "status": "contacted"
+  },
+  {
+    "id": "75",
+    "name": "Wendy Darling",
+    "company": "Peter Pan Adventures",
+    "email": "wendy@peterpan.com",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "qualified"
+  },
+  {
+    "id": "76",
+    "name": "Peter Pan",
+    "company": "Peter Pan Adventures",
+    "email": "peter@peterpan.com",
+    "source": "Cold Call",
+    "score": 89,
+    "status": "new"
+  },
+  {
+    "id": "77",
+    "name": "Alice",
+    "company": "Alice in Wonderland Co",
+    "email": "alice@wonderland.com",
+    "source": "Website",
+    "score": 90,
+    "status": "contacted"
+  },
+  {
+    "id": "78",
+    "name": "Mad Hatter",
+    "company": "Alice in Wonderland Co",
+    "email": "madhatter@wonderland.com",
+    "source": "Referral",
+    "score": 87,
+    "status": "qualified"
+  },
+  {
+    "id": "79",
+    "name": "Dorothy",
+    "company": "The Wizard of Oz Inc",
+    "email": "dorothy@wizardofoz.com",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "80",
+    "name": "Wizard of Oz",
+    "company": "The Wizard of Oz Inc",
+    "email": "wizard@wizardofoz.com",
+    "source": "Cold Call",
+    "score": 83,
+    "status": "contacted"
+  },
+  {
+    "id": "81",
+    "name": "Nancy Drew",
+    "company": "Nancy Drew Mysteries",
+    "email": "nancy@nancydrew.com",
+    "source": "Website",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": "82",
+    "name": "Hardy Boys",
+    "company": "Hardy Boys Investigations",
+    "email": "hardy@hardyboys.com",
+    "source": "Referral",
+    "score": 88,
+    "status": "new"
+  },
+  {
+    "id": "83",
+    "name": "Anne Shirley",
+    "company": "Anne of Green Gables Co",
+    "email": "anne@anneofgreengables.com",
+    "source": "LinkedIn",
+    "score": 91,
+    "status": "contacted"
+  },
+  {
+    "id": "84",
+    "name": "Gilbert Blythe",
+    "company": "Anne of Green Gables Co",
+    "email": "gilbert@anneofgreengables.com",
+    "source": "Cold Call",
+    "score": 85,
+    "status": "qualified"
+  },
+  {
+    "id": "85",
+    "name": "Mary Poppins",
+    "company": "Mary Poppins Services",
+    "email": "mary@marypoppins.com",
+    "source": "Website",
+    "score": 95,
+    "status": "new"
+  },
+  {
+    "id": "86",
+    "name": "Bert",
+    "company": "Mary Poppins Services",
+    "email": "bert@marypoppins.com",
+    "source": "Referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "87",
+    "name": "Scout Finch",
+    "company": "To Kill a Mockingbird Ltd",
+    "email": "scout@tokillamockingbird.com",
+    "source": "LinkedIn",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "88",
+    "name": "Atticus Finch",
+    "company": "To Kill a Mockingbird Ltd",
+    "email": "atticus@tokillamockingbird.com",
+    "source": "Cold Call",
+    "score": 93,
+    "status": "new"
+  },
+  {
+    "id": "89",
+    "name": "Holden Caulfield",
+    "company": "The Catcher in the Rye Co",
+    "email": "holden@catcherintherye.com",
+    "source": "Website",
+    "score": 76,
+    "status": "contacted"
+  },
+  {
+    "id": "90",
+    "name": "Phoebe Caulfield",
+    "company": "The Catcher in the Rye Co",
+    "email": "phoebe@catcherintherye.com",
+    "source": "Referral",
+    "score": 84,
+    "status": "qualified"
+  },
+  {
+    "id": "91",
+    "name": "Winston Smith",
+    "company": "1984 Corporation",
+    "email": "winston@1984corp.com",
+    "source": "LinkedIn",
+    "score": 78,
+    "status": "new"
+  },
+  {
+    "id": "92",
+    "name": "Julia",
+    "company": "1984 Corporation",
+    "email": "julia@1984corp.com",
+    "source": "Cold Call",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "93",
+    "name": "Lenina Crowne",
+    "company": "Brave New World Inc",
+    "email": "lenina@bravenewworld.com",
+    "source": "Website",
+    "score": 80,
+    "status": "qualified"
+  },
+  {
+    "id": "94",
+    "name": "John the Savage",
+    "company": "Brave New World Inc",
+    "email": "john@bravenewworld.com",
+    "source": "Referral",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "95",
+    "name": "Ariel",
+    "company": "The Tempest Inc",
+    "email": "ariel@tempest.com",
+    "source": "LinkedIn",
+    "score": 88,
+    "status": "contacted"
+  },
+  {
+    "id": "96",
+    "name": "Caliban",
+    "company": "The Tempest Inc",
+    "email": "caliban@tempest.com",
+    "source": "Cold Call",
+    "score": 73,
+    "status": "qualified"
+  },
+  {
+    "id": "97",
+    "name": "Lady Macbeth",
+    "company": "Macbeth Industries",
+    "email": "ladym@macbeth.com",
+    "source": "Website",
+    "score": 87,
+    "status": "new"
+  },
+  {
+    "id": "98",
+    "name": "Banquo",
+    "company": "Macbeth Industries",
+    "email": "banquo@macbeth.com",
+    "source": "Referral",
+    "score": 79,
+    "status": "contacted"
+  },
+  {
+    "id": "99",
+    "name": "Rosalind",
+    "company": "As You Like It Co",
+    "email": "rosalind@asyoulikeit.com",
+    "source": "LinkedIn",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "100",
+    "name": "Orlando",
+    "company": "As You Like It Co",
+    "email": "orlando@asyoulikeit.com",
+    "source": "Cold Call",
+    "score": 86,
+    "status": "new"
+  }
+]
