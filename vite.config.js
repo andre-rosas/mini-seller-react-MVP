@@ -4,6 +4,11 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
+  base: '/mini-seller-react-MVP/',
+  build: {
+    outDir: 'dist',
+    assetsDir: 'assets',
+  },
   css: {
     postcss: './postcss.config.js'
   }
