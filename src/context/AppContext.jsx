@@ -147,7 +147,7 @@ export const AppProvider = ({ children }) => {
     const loadLeads = async () => {
       dispatch({ type: ACTION_TYPES.SET_LOADING, payload: true });
       try {
-        const response = await fetch('/leads.json');
+        const response = await fetch('./leads.json');
         const leads = await response.json();
         dispatch({ type: ACTION_TYPES.SET_LEADS, payload: leads });
       } catch (error) {
@@ -161,7 +161,7 @@ export const AppProvider = ({ children }) => {
   useEffect(() => {
     const loadOpportunities = async () => {
       try {
-        const response = await fetch('/opportunities.json');
+        const response = await fetch('./opportunities.json');
         const opportunities = await response.json();
         dispatch({ type: ACTION_TYPES.SET_OPPORTUNITIES, payload: opportunities });
       } catch (error) {
